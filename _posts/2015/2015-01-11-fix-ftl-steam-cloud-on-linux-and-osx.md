@@ -13,14 +13,16 @@ tags:
     - mac os x
     - steam cloud
 image:
-   thumb: "texture-reduced.jpg"
+    title: 2015/ftlsnap.png
+    thumb: 2015/ftlsnap.png
+    homepage: 2015/ftlsnap.png
+    caption: FTL Snapshot
+    caption_url: www.ftlgame.com
 header:
     image_fullwidth: "texture-reduced.jpg"
     caption: Blog of Danilo Pianini
     caption_url: http://danilopianini.org/
 ---
-
-![FTL Snapshot]({{ site.urlimg }}/2015/ftlsnap.png)
 
 I love FTL.
 And I am sure you love it too.
