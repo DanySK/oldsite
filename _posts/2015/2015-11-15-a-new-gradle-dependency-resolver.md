@@ -13,12 +13,16 @@ tags:
     - development
     - build systems
     - continuous integration
-image:
-   thumb: "texture-reduced.jpg"
 header:
     image_fullwidth: "texture-reduced.jpg"
     caption: Blog of Danilo Pianini
     caption_url: http://danilopianini.org/
+image:
+    title: 2015/gradle-logo.png
+    thumb: 2015/gradle-logo.png
+    homepage: 2015/gradle-logo.png
+    caption: Gradle elephant is happy again
+    caption_url: https://github.com/DanySK/SmarTrRR
 ---
 
 I am very happy to announce [SmarTrRR][SmarTrRR], that reads "smarter" and it's an acronym for "Smarter Transitive Range Resolver".

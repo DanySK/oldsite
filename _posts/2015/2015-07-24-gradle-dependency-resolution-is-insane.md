@@ -13,12 +13,16 @@ tags:
     - development
     - build systems
     - continuous integration
-image:
-   thumb: "texture-reduced.jpg"
 header:
     image_fullwidth: "texture-reduced.jpg"
     caption: Blog of Danilo Pianini
     caption_url: http://danilopianini.org/
+image:
+    title: 2015/angry_gradle.png
+    thumb: 2015/angry_gradle.png
+    homepage: 2015/angry_gradle.png
+    caption: Gradle elephant is not amused
+    caption_url: https://docs.gradle.org/current/userguide/dependency_management.html
 ---
 
 First of all, I think Gradle is great.

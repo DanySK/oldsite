@@ -14,12 +14,16 @@ tags:
     - feeling responsive
     - github
     - git
-image:
-   thumb: "texture-reduced.jpg"
 header:
     image_fullwidth: "texture-reduced.jpg"
     caption: Blog of Danilo Pianini
     caption_url: http://danilopianini.org/
+image:
+    title: 2015/jekyll-logo.png
+    thumb: 2015/jekyll-logo.png
+    homepage: 2015/jekyll-logo.png
+    caption: Jekyll is absolutely cool
+    caption_url: https://jekyllrb.com/
 ---
 
 I started building my website with Joomla first. Then I wanted something better, and I tried Drupal. They both, however, require more maintaining than I like, and with tools that I don't like.
