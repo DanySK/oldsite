@@ -44,15 +44,3 @@ If, by any chance, you know a way to tell Gradle to behave like it should, pleas
 ### All Posts about Gradle
 {: .t60 }
 {% include list-posts tag='gradle' %}
-
-[Antergos]: https://antergos.com/
-[Arch]: https://www.archlinux.org/
-[Aruba]: https://www.aruba.it
-[DAO]: https://en.wikipedia.org/wiki/Dragon_Age:_Origins
-[Deluge]: http://deluge-torrent.org/
-[Feeling Responsive]: https://github.com/Phlow/feeling-responsive
-[GH Pages]: https://pages.github.com
-[Jekyll]: https://jekyllrb.com/
-[Jon Snow]: https://en.wikipedia.org/wiki/Jon_Snow_(character)
-[Protelis]: http://protelis.org
-[Sabayon]: https://www.sabayon.org/
