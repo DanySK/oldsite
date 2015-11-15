@@ -34,8 +34,10 @@
 #  url: "/design/"
   side: right
   dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
+  - title: "Bitbucket"
+    url: "https://bitbucket.org/danysk/"
+  - title: "GitHub"
+    url: "https://github.com/DanySK"
 
 - title: "Social Networks"
 #  url: "/design/"
