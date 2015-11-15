@@ -1,0 +1,50 @@
+- name: GitHub
+  url: http://github.com/danysk
+  class: icon-github
+  title: Code on GitHub
+
+- name: Bitbucket
+  url: http://bitbucket.com/danysk
+  class: icon-github
+  title: Code on Bitbucket
+
+- name: Facebook
+  url: "http://www.facebook.com/danilo.pianini"
+  class: icon-facebook
+  title: "Most of my social stream"
+
+- name: Twitter
+  url: http://twitter.com/DanySK86
+  class: icon-twitter
+  title: "Hear me tweet"
+
+- name: Pinterest
+  url: https://www.pinterest.com/danilopianini/
+  class: icon-pinterest
+  title: "Pinned stuff"
+
+- name: YouTube
+  url: http://www.youtube.com/danyskreloaded
+  class: icon-youtube
+  title: "Not many videos from me"
+
+#- name: Mixcloud
+#  url: http://www.mixcloud.com/phlow/
+#  class: icon-cloud
+#  title: "Mixe, was sonst?"
+
+
+# - name: Soundcloud
+#   url: http://soundcloud.com/
+#   class: icon-soundcloud
+#   title: ""
+
+# - name: Instagram
+#   url: http://instagram.com/
+#   class: icon-instagram
+#   title: ""
+
+# - name: Xing
+#   url: https://www.xing.com/profile/
+#   class: icon-xing
+#   title: Xing Profil

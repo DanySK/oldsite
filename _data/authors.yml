@@ -1,0 +1,14 @@
+# Author details
+#
+# 1. Edit information below
+# 2. Change site author in config.yml
+# 3. Change default post/page authors in config.yml
+#
+# Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
+danysk: # replace this with your info
+  name: "Danilo Pianini"
+  siterole: "Chief architect"
+  uri: http://danilopianini.org/
+  email: danilo.pianini@gmail.com
+  twitter: "@DanySK86"
+# you can add more authors here

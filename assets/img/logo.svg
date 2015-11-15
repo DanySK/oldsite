@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600mm"
+   height="80mm"
+   viewBox="0 0 2125.9843 283.46457"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/danysk/Dropbox/Sites/danysk.github.io/assets/img/logo.png"
+   inkscape:export-xdpi="25.400002"
+   inkscape:export-ydpi="25.400002">
+  <defs
+     id="defs4">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4191"
+       x="-0.013388508"
+       width="1.026777"
+       y="-0.11570842"
+       height="1.2314168">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="10.483675"
+         id="feGaussianBlur4193" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4277"
+       x="-0.0066942541"
+       width="1.0133885"
+       y="-0.05785421"
+       height="1.1157084">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.2418375"
+         id="feGaussianBlur4279" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="920.96773"
+     inkscape:cy="189.61132"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-768.89773)">
+    <g
+       id="g3377"
+       style="filter:url(#filter4191)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="118.57143"
+         y="938.0766"
+         id="text3379"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3381"
+           x="118.57143"
+           y="938.0766"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:175.00001526px;font-family:Audiowide;-inkscape-font-specification:Audiowide">Danilo Pianini's blog</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:80.00000763px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1024.1571"
+         y="1005.7856"
+         id="text3383"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3385"
+           x="1024.1571"
+           y="1005.7856"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80.00000763px;font-family:Audiowide;-inkscape-font-specification:Audiowide">because engineering</tspan></text>
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4277)"
+       id="g4227">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         x="118.57143"
+         y="938.0766"
+         id="text4229"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4231"
+           x="118.57143"
+           y="938.0766"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:175.00001526px;font-family:Audiowide;-inkscape-font-specification:Audiowide;fill:#000000;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none">Danilo Pianini's blog</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:80.00000763px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         x="1024.1571"
+         y="1005.7856"
+         id="text4233"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4235"
+           x="1024.1571"
+           y="1005.7856"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80.00000763px;font-family:Audiowide;-inkscape-font-specification:Audiowide;fill:#000000;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none">because engineering</tspan></text>
+    </g>
+    <g
+       id="g3358"
+       style="fill:#ffffff;fill-opacity:1">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3336"
+         y="938.0766"
+         x="118.57143"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:175.00001526px;font-family:Audiowide;-inkscape-font-specification:Audiowide;fill:#ffffff;fill-opacity:1"
+           y="938.0766"
+           x="118.57143"
+           id="tspan3338"
+           sodipodi:role="line">Danilo Pianini's blog</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3336-9"
+         y="1005.7856"
+         x="1024.1571"
+         style="font-style:normal;font-weight:normal;font-size:80.00000763px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80.00000763px;font-family:Audiowide;-inkscape-font-specification:Audiowide;fill:#ffffff;fill-opacity:1"
+           y="1005.7856"
+           x="1024.1571"
+           id="tspan3338-4"
+           sodipodi:role="line">because engineering</tspan></text>
+    </g>
+  </g>
+</svg>

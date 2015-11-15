@@ -1,0 +1,64 @@
+- title: "This blog"
+  url: "/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: "Search"
+  url: "/search/"
+  side: left
+
+- title: "Contact"
+  url: "/contact/"
+  side: left
+
+- title: "Curriculum"
+  url: "/files/curriculum.pdf"
+  side: right
+
+- title: "Research"
+#  url: "/design/"
+  side: right
+  dropdown:
+  - title: "UniBo"
+    url: "https://www.unibo.it/sitoweb/danilo.pianini/en"
+  - title: "APICe Lab"
+    url: "http://apice.unibo.it/xwiki/bin/view/DaniloPianini/"
+  - title: "Google Scholar"
+    url: "https://scholar.google.it/citations?user=0CLlt5oAAAAJ&hl=en"
+  - title: "DBLP"
+    url: "http://dblp.uni-trier.de/pers/hd/p/Pianini:Danilo"
+
+- title: "Development"
+#  url: "/design/"
+  side: right
+  dropdown:
+  - title: "Grid & Colors"
+    url: "/design/grid/"
+
+- title: "Social Networks"
+#  url: "/design/"
+  side: right
+  dropdown:
+  - title: "Facebook"
+    url: "https://www.facebook.com/danilo.pianini"
+  - title: "Google Plus"
+    url: "https://plus.google.com/+DaniloPianini/posts"
+  - title: "Linkedin"
+    url: "http://it.linkedin.com/pub/danilo-pianini/49/821/8a3"
+  - title: "Twitter"
+    url: "http://twitter.com/DanySK86"
+
+- title: "Multimedia"
+#  url: "/design/"
+  side: right
+  dropdown:
+  - title: "Panoramio"
+    url: "http://www.panoramio.com/user/54484"
+  - title: "SlideShare"
+    url: "http://www.slideshare.net/DanySK"
+  - title: "Steam"
+    url: "http://steamcommunity.com/profiles/76561198001458742"
+  - title: "YouTube"
+    url: "http://www.youtube.com/user/danyskreloaded"
