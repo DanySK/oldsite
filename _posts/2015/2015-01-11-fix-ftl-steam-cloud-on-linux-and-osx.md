@@ -19,7 +19,7 @@ image:
     caption: FTL Snapshot
     caption_url: www.ftlgame.com
 header:
-    image_fullwidth: "texture-reduced.jpg"
+    image_fullwidth: "2015/ftlsnap.png"
     caption: Blog of Danilo Pianini
     caption_url: http://danilopianini.org/
 ---
