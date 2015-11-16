@@ -5,11 +5,15 @@ title:  "Cannabis, cannabinoidi e cancro: facciamo chiarezza"
 subheadline:  "La vera verità sulla canapa che nessuno vi vogliono dirvi."
 teaser: "La canapa è il terrore delle aziende farmaceutiche? Cura il cancro e per questo la proibiscono?"
 categories:
-    - "videogames"
+    - "scienza"
 tags:
-    - hotline miami
-    - steam
-    - linux
+    - cannabis
+    - marijuana
+    - tumore
+    - cannabinoidi
+    - cure
+    - big pharma
+    - olio di canapa
 image:
     title: 2014/Bottles-of-hemp-oil.jpg
     thumb: 2014/Bottles-of-hemp-oil.jpg
@@ -110,8 +114,6 @@ Non vi sono sufficienti prove per stabilire che i cannabinoidi (siano essi natur
 Dalle conversazioni avute pare che chiunque non descriva la cannabis come una pianta miracolosa ma si attenga scrupolosamente ai  dati scientifici possa essere tacciato di proibizionismo. Ho già espresso la mia posizione in merito alla legalizzazione della cannabis in un altro post, e sottolineo che, nonostante non faccia uso di cannabis, sono assolutamente favorevole all'introduzione di un mercato legale e controllato. Appoggiare un'iniziativa di cui beneficia la società nel suo complesso non richiede di inventarsi proprietà miracolose da attribuire alla pianta di cannabis, o ipotesi complottiste: basta un minimo di buon senso.
 
 Approfitto anche del post per ri-segnalare la possibilità di firmare per una [proposta di legge europea sulla legalizzazione della marijuana](https://clicknsign.eu/en/projects/93/signup/it).
-
-
 
 ## Correzioni e aggiornamenti
 
