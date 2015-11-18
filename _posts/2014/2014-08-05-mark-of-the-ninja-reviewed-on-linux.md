@@ -14,8 +14,8 @@ image:
     title: 2014/2014-08-05_00002.jpg
     thumb: 2014/2014-08-05_00008.jpg
     homepage: 2014/2014-08-05_00008.jpg
-    caption: Hotline Miami screenshot
-    caption_url: http://hotlinemiami.com/
+    caption: Mark of the Ninja screenshot
+    caption_url: https://en.wikipedia.org/wiki/Mark_of_the_Ninja
 header:
     image_fullwidth: "2014/2014-08-05_00008.jpg"
     caption: Blog of Danilo Pianini
