@@ -6,7 +6,6 @@ subheadline:  "The hunter and the hunted"
 teaser: "Totally amazing footage of a great white shark attacking a SharkCam"
 categories:
     - science
-    - nature
 tags:
     - shark
     - remus sharkcam
