@@ -7,13 +7,13 @@ teaser: "Cari genitori, vi stanno mentendo. Le persone che asseriscono di agire 
 categories:
     - attualità
 tags:
-    - cannabis
-    - marijuana
-    - legalizzazione
-    - mercato legale
-    - mercato nero
-    - tasse
-    - colorado
+    - scienza
+    - vaccini
+    - autismo
+    - mercurio
+    - alluminio
+    - big pharma
+    - bugie
 image:
     title: 2014/lies.jpeg
     thumb: 2014/lies.jpeg
