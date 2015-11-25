@@ -58,6 +58,8 @@
   dropdown:
   - title: "Panoramio"
     url: "http://www.panoramio.com/user/54484"
+  - title: "Saved Games"
+    url: "/saved-games/"
   - title: "SlideShare"
     url: "http://www.slideshare.net/DanySK"
   - title: "Steam"
