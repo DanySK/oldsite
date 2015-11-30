@@ -56,6 +56,8 @@
 #  url: "/design/"
   side: right
   dropdown:
+  - title: "Appunti"
+    url: "/appunti/"
   - title: "Panoramio"
     url: "http://www.panoramio.com/user/54484"
   - title: "Saved Games"
