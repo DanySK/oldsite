@@ -1,19 +1,12 @@
 ---
 layout: page
 title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+meta_title: "Contact"
+#subheadline: "Wufoo-powered contact forms"
+#teaser: "Get in touch with me? Use the contact form."
 permalink: "/contact/"
 header:
   image_fullwidth: texture-reduced.jpg
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
 
-<div class="panel">
-<iframe width="100%" height="650" frameborder="0" scrolling="no" src="https://phlowmedia.wufoo.com/embed/z7x3k1/"></iframe>
-</div>
-
-
-
- [1]: http://www.wufoo.com/
+I can be contacted at [``danilo.pianini@unibo.it``](mailto://danilo.pianini@unibo.it) or at [``danilo.pianini@gmail.com``](mailto://danilo.pianini@gmail.com)
