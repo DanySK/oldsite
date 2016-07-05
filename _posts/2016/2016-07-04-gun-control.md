@@ -61,4 +61,3 @@ Controlling firearms does not enlarge black market, but rather shrinks it. Firea
 One of the best ways to improve a country is to look at countries where something works better, and figure out how a similar legislation may work locally. For the "works better" part, I suggest this metric:
 ![Assault deaths per 100K population]({{ site.urlimg }}/2016/violenza.png)
 Pick any of the red lines there (one's my country, I don't know which one), and look how they achieve that result. Then reason if maybe there's a way to adapt the rule set to the specific US needs. I see no reason why US should have more assault deaths per capita than any other OECD Country.
-[SmarTrRR]: https://github.com/DanySK/SmarTrRR
