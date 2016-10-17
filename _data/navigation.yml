@@ -35,6 +35,8 @@
     url: "http://orcid.org/0000-0002-8392-5409"
   - title: "Publons"
     url: "https://publons.com/author/1103754/danilo-pianini"
+  - title: "Academia.edu"
+    url: "https://unibo.academia.edu/DaniloPianini"
 
 - title: "Development"
 #  url: "/design/"
