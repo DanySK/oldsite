@@ -21,7 +21,7 @@ header:
     image_fullwidth: 2014/2014-08-05_00008.jpg
     caption: Don't fail to progress.
     caption_url: http://danilopianini.org/
-permalink: "/saved-games/"
+permalink: "/saved-games-down/"
 ---
 
 | Game | Download link |
