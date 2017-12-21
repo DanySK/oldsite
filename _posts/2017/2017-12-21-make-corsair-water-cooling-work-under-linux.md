@@ -17,8 +17,8 @@ header:
     caption_url: http://danilopianini.org/
 image:
     title: 2017/Corsair_logo_horizontal.png
-    thumb: 2015/gradle-logo.png
-    homepage: 2015/gradle-logo.png
+    thumb: 2017/Corsair_logo_horizontal.png
+    homepage: 2017/aio-cooling.jpeg
     caption: Now also working under Linux!
     caption_url: https://github.com/audiohacked/OpenCorsairLink
 ---
