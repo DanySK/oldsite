@@ -2,9 +2,8 @@
 layout: page
 sidebar: right
 title:  "Corsair Hydro H100i v2 under Linux"
-subheadline:  "And probably also other Corsair AIO water coolers such as the H115i"
-
-teaser: "Corsair does not support us, we do support ourselves."
+teaser:  "And probably also other Corsair AIO water coolers such as the H115i"
+subheadline: "Corsair does not support us, we do support ourselves."
 categories:
     - "information technology"
 tags:
